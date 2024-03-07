@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c579f1ef-55a9-4963-a60e-7d1e96dfc42f/deploy-status)](https://app.netlify.com/sites/svelte-cinema/deploys)
+
 # Svelte Movie
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
